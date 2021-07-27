@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: jovem.dsv
+Build-Jdk: 16.0.1
+Implementation-Title: beloprojeto
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.enio
+Main-Class: br.com.enio.beloprojeto.App
+Created-By: Maven Integration for Eclipse
+
